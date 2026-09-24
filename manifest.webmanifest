@@ -2,7 +2,7 @@
   "name": "근육 총람 — 기시·정지·작용·신경·임상·촉지·초음파",
   "short_name": "근육 총람",
   "description": "186개 골격근의 기시·정지·작용·신경지배와 임상 병리·촉지법·초음파 요령을 찾아보는 학습 도구",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
@@ -28,5 +28,6 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ]
+  ],
+  "id": "/muscle-atlas-claude/"
 }
